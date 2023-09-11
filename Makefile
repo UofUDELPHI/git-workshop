@@ -5,4 +5,4 @@ push:
 	docker push ghcr.io/uofudelphi/git-workshop:latest
 
 run:
-	docker run --rm -ti ghcr.io/uofudelphi/git-workshop:latest
+	docker run --rm -ti ghcr.io/uofudelphi/git-workshop:latest bash
