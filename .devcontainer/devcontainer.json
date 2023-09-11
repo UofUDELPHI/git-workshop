@@ -1,7 +1,10 @@
 {
-  "image": "ghcr.io/uofudelphi/git-workshop:latest",
+  // "build": "ghcr.io/uofudelphi/git-workshop:latest",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
   "features": {
     "ghcr.io/warrenbuckley/codespace-features/sqlite:1": {}
-  }, 
+  },
   "remoteUser": "root"
 }

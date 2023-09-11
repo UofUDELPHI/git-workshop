@@ -1,5 +1,3 @@
-FROM ubuntu:22.04
-
-RUN apt update && apt install git -y --no-install-recommends
+FROM rocker/r-base:4.3.0
 
 
