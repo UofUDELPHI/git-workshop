@@ -2,5 +2,6 @@
   "image": "ghcr.io/uofudelphi/git-workshop:latest",
   "features": {
     "ghcr.io/warrenbuckley/codespace-features/sqlite:1": {}
-  }
+  }, 
+  "remoteUser": "root"
 }
