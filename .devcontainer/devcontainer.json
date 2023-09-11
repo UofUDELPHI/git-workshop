@@ -1,5 +1,6 @@
 {
   // "build": "ghcr.io/uofudelphi/git-workshop:latest",
+  "name": "DELPHI Git Workshop",
   "build": {
     "dockerfile": "../Dockerfile"
   },
